@@ -1,5 +1,5 @@
 # SLR_shortTR_SE
-MATLAB code accompanying Balasubramanian et al. (2026) "Large gains in SNR through the application of Shinnar-Le Roux RF pulse design to short-TR spin-echo fMRI acquisitions at 7T"
+MATLAB code accompanying Balasubramanian et al. (2026) "Large gains in SNR through the application of Shinnar-Le Roux RF pulse design to short-TR spin-echo fMRI acquisitions at 7T" (https://doi.org/10.1016/j.mri.2026.110639)
 
 1) This code was written and tested using MATLAB R2015a running on Linux; if you are using a very different version of MATLAB or a different OS, you may have to tweak the code in order for it to run.
 
@@ -9,4 +9,4 @@ MATLAB code accompanying Balasubramanian et al. (2026) "Large gains in SNR throu
 
 4) Try running example01, example02 and example03 (noting the expected run times for the mex'ed version of the code).
 
-5) If you do find this code useful in your work, please don't forget to cite the accompanying manuscript (Balasubramanian et al., "Large gains in SNR through the application of Shinnar-Le Roux RF pulse design to short-TR spin-echo fMRI acquisitions at 7T". Magn Reson Imaging 2026).
+5) If you do find this code useful in your work, please don't forget to cite the accompanying manuscript (Balasubramanian et al., "Large gains in SNR through the application of Shinnar-Le Roux RF pulse design to short-TR spin-echo fMRI acquisitions at 7T". Magn Reson Imaging 2026 https://doi.org/10.1016/j.mri.2026.110639).
